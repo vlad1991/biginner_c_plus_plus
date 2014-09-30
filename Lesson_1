@@ -1,0 +1,21 @@
+//Lesson one
+//
+//  main.cpp
+//  exercise1
+//
+//  Created by Vladimir Davydenko on 29/09/2014.
+//  Copyright (c) 2014 Vladimir Davydenko. All rights reserved.
+//
+
+#include <iostream>
+
+int main(int argc, const char * argv[]) {
+    // insert code here...
+    int x = 8;
+    int y = 6;
+    std::cout << std::endl;
+    std::cout << x-y << "  " << x*y << x+y;
+    std::cout << std::endl;
+    return 0;
+}
+
